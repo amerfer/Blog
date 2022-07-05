@@ -9,21 +9,21 @@ body {
     padding: 30px;
     font-size: 40px;
     text-align: center;
-    background: white;
+    background: orange;
   }
   
   /* Create two unequal columns that floats next to each other */
   /* Left column */
   .leftcolumn {
     float: left;
-    width: 75%;
+    width: 73%;
   }
   
   /* Right column */
   .rightcolumn {
     float: right;
+    padding-right: 1px;
     width: 25%;
-    padding-left: 20px;
   }
   
   /* Fake image */
@@ -51,7 +51,7 @@ body {
   .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: orange;
     margin-top: 20px;
   }
   
